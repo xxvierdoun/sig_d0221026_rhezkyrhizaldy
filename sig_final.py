@@ -14,4 +14,4 @@ image = Image.open(image_path)
 st.image(image, caption='Kec. Banggae')
 
 # Tempat untuk menulis teks
-st.write("Feta ini menunjukkan picture dari peta kec banggae")
+st.write("Peta ini menunjukkan picture dari peta kec banggae")
