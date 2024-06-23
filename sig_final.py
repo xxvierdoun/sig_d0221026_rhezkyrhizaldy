@@ -5,7 +5,7 @@ from PIL import Image
 st.title("Peta Kec. Banggae")
 
 # Path gambar
-image_path = 'images/map_img.jpg'
+image_path = 'image/map_img.jpg'
 
 # Load gambar
 image = Image.open(image_path)
